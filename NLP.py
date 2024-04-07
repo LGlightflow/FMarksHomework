@@ -1,7 +1,7 @@
 import PIL.Image
 import nltk
 import newspaper
-import pandas as pd         # 导入pandas库
+import pandas as pd
 import jieba
 import numpy
 import wordcloud
